@@ -1,0 +1,15 @@
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-1\CalculatorApp\CalculationClient\bin\Debug\net8.0\CalculationClient.exe
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-1\CalculatorApp\CalculationClient\bin\Debug\net8.0\CalculationClient.deps.json
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-1\CalculatorApp\CalculationClient\bin\Debug\net8.0\CalculationClient.runtimeconfig.json
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-1\CalculatorApp\CalculationClient\bin\Debug\net8.0\CalculationClient.dll
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-1\CalculatorApp\CalculationClient\bin\Debug\net8.0\CalculationClient.pdb
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-1\CalculatorApp\CalculationClient\obj\Debug\net8.0\CalculationClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-1\CalculatorApp\CalculationClient\obj\Debug\net8.0\CalculationClient.AssemblyInfoInputs.cache
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-1\CalculatorApp\CalculationClient\obj\Debug\net8.0\CalculationClient.AssemblyInfo.cs
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-1\CalculatorApp\CalculationClient\obj\Debug\net8.0\CalculationClient.csproj.CoreCompileInputs.cache
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-1\CalculatorApp\CalculationClient\obj\Debug\net8.0\CalculationClient.sourcelink.json
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-1\CalculatorApp\CalculationClient\obj\Debug\net8.0\CalculationClient.dll
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-1\CalculatorApp\CalculationClient\obj\Debug\net8.0\refint\CalculationClient.dll
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-1\CalculatorApp\CalculationClient\obj\Debug\net8.0\CalculationClient.pdb
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-1\CalculatorApp\CalculationClient\obj\Debug\net8.0\CalculationClient.genruntimeconfig.cache
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-1\CalculatorApp\CalculationClient\obj\Debug\net8.0\ref\CalculationClient.dll

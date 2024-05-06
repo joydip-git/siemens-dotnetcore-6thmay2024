@@ -8,6 +8,7 @@ Dot Net Framework: 2002 [Legacy]
 	- ado.net (activex data object - data access framework)
 	- entity framework (2010) [Object relational/mapping (OR/M)]
 		(database first + model first + code first)
+tools: compilers (vbc, csc, etc.)
 last version: 4.8 (2019) [.edmx]
 
 Dot Net Core Framework or .NET: 2016
@@ -21,15 +22,14 @@ odd => may (STS)
 		a. .net core runtime [ core application like console app]
 		b. .net desktop runtime [ core app + UI based desktop application- such as, Windows form app, WPF app]
 		c. asp.net core runtime [for web applications - page based, razor application, blazor application, RESTful API application]
-	- library (Core/Fx library)
-		- core libraries get installed in the machine
-		- rest of the libraries are in the NuGet/github
-
-		- asp.net core [or web applications - page based, razor application, blazor application, RESTful API application]
-		- ado.net
-		- entity framework core [ code first + db first approach]
+		c. library (Core/Fx library)
+			- core libraries get installed in the machine
+			- rest of the libraries are in the NuGet/github
+		d. asp.net core [or web applications - page based, razor application, blazor application, RESTful API application]
+		e. ado.net
+		f. entity framework core [ code first + db first approach]
 	
-
+compiler (Roslyn => vb and c#)
 dotnet tool => Command Line Interface tool (CLI tool)
 
 version: 8
@@ -62,25 +62,25 @@ C#:
 ------------------------------------------------------------------------
 built-in 				user-defined				built-in			user-defined
 ---------------------------------------------------------------------
-byte						struct						object				class
-sbyte						enum							string				interface
+byte (Byte)				struct						object				class
+sbyte	(SByte)			enum							string				interface
 																					delegate
-short																				event
+short	(Int16)																	event
 ushort
 
-int
+int (Int32)
 uint
 
-long
+long (Int64)
 ulong
 
-decimal d = 12.34M;
+decimal d = 12.34M; (Decimal)
 float f = 12.34F;
 double d1 = 12.34D/12.34;
 
 char
 
-bool
+bool (Boolean)
 
 .....
 						Nullable<T> type
@@ -101,10 +101,111 @@ class Employee{
 }
 
 operators: 
-control flow: if, if..else, nested if...else, switch..case, while, do...while, for, foreach
+control flow: if, if..else, nested if...else, switch..case, while, do...while, for, foreach, continue and break
+
+Mono => 
+
+ILDASM => Intermediate Language Dis-assembler (used to view the IL code)
+
+.NET application execution:
+
+1. compilaton (source code is converted into IL code)
+source code (in C#) => roslyn compiler => output file (IL code => Intermediate Language code)
+console app => compiler => output file (.dll) + exe file (host)
+library app => compiler => output file (.dll)
+
+2. run (runtime is loaded into the application process, the application output file is alos loaded into the process, other depdencies are also loaded)
+IL code (in the output file) => Just-In-Time compiler (part of runtime) => machine language code => executed from main method
+
+.net core (.NET) project structure:
+a. solution file (*.sln) => container for multiple projects/apps
+b. project file (*.csproj) => one particular project file
+c. source code files
+d. bin => debug or release folder => *.deps.json, *.runtimeconfig.json, *.dll, *.exe
+e. obj
+
+.NET assembly is nothing but the output file
+1. IL code
+2. Manifest (Assembly information)
+3. Type Metadata (Information about data types)
+4. Header values
+	4.1. CLR Header
+	4.2. Optional Win32 header
 
 
-array:
+C#, VB.NET => IL Code
+
+int x = 10; => Int32 (4)
+
+Dim x As Integer = 10 => Int32 (4)
+
+Common Type System ( data type system of IL code)
+
+SC (VB) => Roslyn => IL Code
+SC (C#) => Roslyn => IL Code
+
+dotnet:
+--list-sdks : lists all the installed SDKs
+--list-runtimes: lists all the runtimes
+
+dotnet new list: list of all templates for dotnet application
+
+console app:
+dotnet new console --name <app-name>
+
+library:
+dotnet new library --name <app-name>
+
+compile:
+>app-directory>dotnet build
+
+run:
+>app-directory>dotnet run
+
+
+Legacy .NET Framework
+.NET Standard => to create shared library
+.NET (dotnet core framework)
+
+
+exclusive C# Language versions for .NET:
+C# 12, 11, 10, 9, 8
+
+common C# language versions for .NET and Legacy .NET Framework:
+C# <=7.3 
+
+solution: CalculatorApp
+
+Library app: CalculationLibrary
+class file: Calculation [public]
+	4 instance public methods:
+	Add 		=> 2 args (int,int) and returns int
+	Subtract => 2 args (int,int) and returns int
+	Multiply => 2 args (int,int) and returns int
+ 	Divide 	=> 2 args (int,int) and returns int
+
+console app: CalculationClient
+note: add reference to CalculationLibrary
+class file: Program.cs
+
+--Menu---
+1. Add
+2. Subtract
+3. Multiply
+4. Divide
+
+Enter choice[1/2/3/4]: 1
+Enter value: 12
+Enter Value: 13
+
+Result: 25
+
+Like to continue?[y/Y]: y
+
+
+
+
+
 
 
 

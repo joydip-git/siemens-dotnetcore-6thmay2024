@@ -1,0 +1,12 @@
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-1\CSharpApps\SampleLibrary\bin\Debug\net8.0\SampleLibrary.deps.json
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-1\CSharpApps\SampleLibrary\bin\Debug\net8.0\SampleLibrary.dll
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-1\CSharpApps\SampleLibrary\bin\Debug\net8.0\SampleLibrary.pdb
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-1\CSharpApps\SampleLibrary\obj\Debug\net8.0\SampleLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-1\CSharpApps\SampleLibrary\obj\Debug\net8.0\SampleLibrary.AssemblyInfoInputs.cache
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-1\CSharpApps\SampleLibrary\obj\Debug\net8.0\SampleLibrary.AssemblyInfo.cs
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-1\CSharpApps\SampleLibrary\obj\Debug\net8.0\SampleLibrary.csproj.CoreCompileInputs.cache
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-1\CSharpApps\SampleLibrary\obj\Debug\net8.0\SampleLibrary.sourcelink.json
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-1\CSharpApps\SampleLibrary\obj\Debug\net8.0\SampleLibrary.dll
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-1\CSharpApps\SampleLibrary\obj\Debug\net8.0\refint\SampleLibrary.dll
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-1\CSharpApps\SampleLibrary\obj\Debug\net8.0\SampleLibrary.pdb
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-1\CSharpApps\SampleLibrary\obj\Debug\net8.0\ref\SampleLibrary.dll

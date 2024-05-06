@@ -41,8 +41,8 @@ Console.Write("enter your date of birth in mm/dd/yyyy format: ");
 string dob = Console.ReadLine();
 //DateTime dateOfBirth = DateTime.Parse(dob);
 //Console.WriteLine(dateOfBirth);
-DateTime dateOfBirth;
-bool isPossible = DateTime.TryParse(dob, out dateOfBirth);
+//DateTime dateOfBirth;
+bool isPossible = DateTime.TryParse(dob, out DateTime dateOfBirth);
 if (isPossible)
 {
     Console.WriteLine(dateOfBirth);

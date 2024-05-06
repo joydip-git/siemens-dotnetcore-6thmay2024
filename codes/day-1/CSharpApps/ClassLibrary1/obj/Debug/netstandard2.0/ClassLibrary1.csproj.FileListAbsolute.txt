@@ -1,0 +1,11 @@
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-1\CSharpApps\ClassLibrary1\bin\Debug\netstandard2.0\ClassLibrary1.deps.json
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-1\CSharpApps\ClassLibrary1\bin\Debug\netstandard2.0\ClassLibrary1.dll
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-1\CSharpApps\ClassLibrary1\bin\Debug\netstandard2.0\ClassLibrary1.pdb
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-1\CSharpApps\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.csproj.AssemblyReference.cache
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-1\CSharpApps\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-1\CSharpApps\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.AssemblyInfoInputs.cache
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-1\CSharpApps\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.AssemblyInfo.cs
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-1\CSharpApps\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.csproj.CoreCompileInputs.cache
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-1\CSharpApps\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.sourcelink.json
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-1\CSharpApps\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.dll
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-1\CSharpApps\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.pdb

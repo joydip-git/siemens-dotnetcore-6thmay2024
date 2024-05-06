@@ -1,0 +1,15 @@
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-1\dotnetappusingtool\bin\Debug\net8.0\dotnetappusingtool.exe
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-1\dotnetappusingtool\bin\Debug\net8.0\dotnetappusingtool.deps.json
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-1\dotnetappusingtool\bin\Debug\net8.0\dotnetappusingtool.runtimeconfig.json
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-1\dotnetappusingtool\bin\Debug\net8.0\dotnetappusingtool.dll
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-1\dotnetappusingtool\bin\Debug\net8.0\dotnetappusingtool.pdb
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-1\dotnetappusingtool\obj\Debug\net8.0\dotnetappusingtool.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-1\dotnetappusingtool\obj\Debug\net8.0\dotnetappusingtool.AssemblyInfoInputs.cache
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-1\dotnetappusingtool\obj\Debug\net8.0\dotnetappusingtool.AssemblyInfo.cs
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-1\dotnetappusingtool\obj\Debug\net8.0\dotnetappusingtool.csproj.CoreCompileInputs.cache
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-1\dotnetappusingtool\obj\Debug\net8.0\dotnetappusingtool.sourcelink.json
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-1\dotnetappusingtool\obj\Debug\net8.0\dotnetappusingtool.dll
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-1\dotnetappusingtool\obj\Debug\net8.0\refint\dotnetappusingtool.dll
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-1\dotnetappusingtool\obj\Debug\net8.0\dotnetappusingtool.pdb
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-1\dotnetappusingtool\obj\Debug\net8.0\dotnetappusingtool.genruntimeconfig.cache
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-1\dotnetappusingtool\obj\Debug\net8.0\ref\dotnetappusingtool.dll
