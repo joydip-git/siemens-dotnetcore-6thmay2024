@@ -1,0 +1,15 @@
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-1\BasicsApp\bin\Debug\net8.0\BasicsApp.exe
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-1\BasicsApp\bin\Debug\net8.0\BasicsApp.deps.json
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-1\BasicsApp\bin\Debug\net8.0\BasicsApp.runtimeconfig.json
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-1\BasicsApp\bin\Debug\net8.0\BasicsApp.dll
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-1\BasicsApp\bin\Debug\net8.0\BasicsApp.pdb
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-1\BasicsApp\obj\Debug\net8.0\BasicsApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-1\BasicsApp\obj\Debug\net8.0\BasicsApp.AssemblyInfoInputs.cache
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-1\BasicsApp\obj\Debug\net8.0\BasicsApp.AssemblyInfo.cs
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-1\BasicsApp\obj\Debug\net8.0\BasicsApp.csproj.CoreCompileInputs.cache
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-1\BasicsApp\obj\Debug\net8.0\BasicsApp.sourcelink.json
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-1\BasicsApp\obj\Debug\net8.0\BasicsApp.dll
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-1\BasicsApp\obj\Debug\net8.0\refint\BasicsApp.dll
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-1\BasicsApp\obj\Debug\net8.0\BasicsApp.pdb
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-1\BasicsApp\obj\Debug\net8.0\BasicsApp.genruntimeconfig.cache
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-1\BasicsApp\obj\Debug\net8.0\ref\BasicsApp.dll

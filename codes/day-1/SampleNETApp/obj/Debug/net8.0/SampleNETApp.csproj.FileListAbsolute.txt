@@ -1,0 +1,15 @@
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-1\SampleNETApp\bin\Debug\net8.0\SampleNETApp.exe
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-1\SampleNETApp\bin\Debug\net8.0\SampleNETApp.deps.json
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-1\SampleNETApp\bin\Debug\net8.0\SampleNETApp.runtimeconfig.json
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-1\SampleNETApp\bin\Debug\net8.0\SampleNETApp.dll
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-1\SampleNETApp\bin\Debug\net8.0\SampleNETApp.pdb
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-1\SampleNETApp\obj\Debug\net8.0\SampleNETApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-1\SampleNETApp\obj\Debug\net8.0\SampleNETApp.AssemblyInfoInputs.cache
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-1\SampleNETApp\obj\Debug\net8.0\SampleNETApp.AssemblyInfo.cs
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-1\SampleNETApp\obj\Debug\net8.0\SampleNETApp.csproj.CoreCompileInputs.cache
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-1\SampleNETApp\obj\Debug\net8.0\SampleNETApp.sourcelink.json
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-1\SampleNETApp\obj\Debug\net8.0\SampleNETApp.dll
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-1\SampleNETApp\obj\Debug\net8.0\refint\SampleNETApp.dll
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-1\SampleNETApp\obj\Debug\net8.0\SampleNETApp.pdb
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-1\SampleNETApp\obj\Debug\net8.0\SampleNETApp.genruntimeconfig.cache
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-1\SampleNETApp\obj\Debug\net8.0\ref\SampleNETApp.dll

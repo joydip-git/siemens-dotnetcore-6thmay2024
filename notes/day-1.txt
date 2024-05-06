@@ -1,0 +1,114 @@
+https://github.com/joydip-git/siemens-dotnetcore-6thmay2024
+
+Microsoft:
+Dot Net Framework: 2002 [Legacy]
+	- CLR ( common language runtime) => run any type of application (desktop+web)
+	- BCL/FCL (base class/ framework class library)
+	- asp.net (activer server pages - web applications framework)
+	- ado.net (activex data object - data access framework)
+	- entity framework (2010) [Object relational/mapping (OR/M)]
+		(database first + model first + code first)
+last version: 4.8 (2019) [.edmx]
+
+Dot Net Core Framework or .NET: 2016
+versions: 
+1.0, 1.1, 2.0, 2.1, 3.0, 3.1 => .net core framework
+5, 6, 7, 8	=> .NET
+
+even => novermber [LTS]
+odd => may (STS)
+	- runtime	=> 
+		a. .net core runtime [ core application like console app]
+		b. .net desktop runtime [ core app + UI based desktop application- such as, Windows form app, WPF app]
+		c. asp.net core runtime [for web applications - page based, razor application, blazor application, RESTful API application]
+	- library (Core/Fx library)
+		- core libraries get installed in the machine
+		- rest of the libraries are in the NuGet/github
+
+		- asp.net core [or web applications - page based, razor application, blazor application, RESTful API application]
+		- ado.net
+		- entity framework core [ code first + db first approach]
+	
+
+dotnet tool => Command Line Interface tool (CLI tool)
+
+version: 8
+
+It is a development environment, where you can create, build, deploy and run applications
+
+.NET or DotNet core is
+	- open source
+	- platform neutral or cross-platform
+	- modular
+	- cloud centric
+	- applicaion size is less
+
+
+IDE: 
+	Visual Studio 2022
+	Visual Studio Code
+
+
+winforms + WPF
+=> user32.dll [button, textbox etc.]
+=> DDM (XPDM, VDDM, ...) - DirectX
+
+
+
+C#:
+											data types
+-----------------------------------------------------------------
+			value types											reference types
+------------------------------------------------------------------------
+built-in 				user-defined				built-in			user-defined
+---------------------------------------------------------------------
+byte						struct						object				class
+sbyte						enum							string				interface
+																					delegate
+short																				event
+ushort
+
+int
+uint
+
+long
+ulong
+
+decimal d = 12.34M;
+float f = 12.34F;
+double d1 = 12.34D/12.34;
+
+char
+
+bool
+
+.....
+						Nullable<T> type
+						Nullable reference type (?): helps you avoid exception
+						Null coalesce operator => ??
+					ternary operator=> ?:
+
+
+id			name		address		salary (Decimal(18,2))
+1			anil			NULL				NULL
+
+
+class Employee{
+	int id;
+	string name;
+	string address;
+	decimal? salary;
+}
+
+operators: 
+control flow: if, if..else, nested if...else, switch..case, while, do...while, for, foreach
+
+
+array:
+
+
+
+
+
+
+
