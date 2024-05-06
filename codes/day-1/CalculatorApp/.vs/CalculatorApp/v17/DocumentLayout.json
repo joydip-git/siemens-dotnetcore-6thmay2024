@@ -7,8 +7,8 @@
       "RelativeMoniker": "D:0:0:{FDEB7F07-E396-4ACA-8EA9-6EA2991CD915}|CalculationClient\\CalculationClient.csproj|solutionrelative:calculationclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B416FA6-D055-4363-AE0C-E116D88A2A25}|CalculationLibrary\\CalculationLibrary.csproj|d:\\training\\siemens-dotnetcore-6thmay2024\\codes\\day-1\\calculatorapp\\calculationlibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B416FA6-D055-4363-AE0C-E116D88A2A25}|CalculationLibrary\\CalculationLibrary.csproj|solutionrelative:calculationlibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3B416FA6-D055-4363-AE0C-E116D88A2A25}|CalculationLibrary\\CalculationLibrary.csproj|d:\\training\\siemens-dotnetcore-6thmay2024\\codes\\day-1\\calculatorapp\\calculationlibrary\\calculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B416FA6-D055-4363-AE0C-E116D88A2A25}|CalculationLibrary\\CalculationLibrary.csproj|solutionrelative:calculationlibrary\\calculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,20 +28,20 @@
               "RelativeDocumentMoniker": "CalculationClient\\Program.cs",
               "ToolTip": "D:\\training\\siemens-dotnetcore-6thmay2024\\codes\\day-1\\CalculatorApp\\CalculationClient\\Program.cs",
               "RelativeToolTip": "CalculationClient\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAjAAAA",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAADIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T11:25:38.602Z",
+              "WhenOpened": "2024-05-06T11:31:42.598Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "D:\\training\\siemens-dotnetcore-6thmay2024\\codes\\day-1\\CalculatorApp\\CalculationLibrary\\Class1.cs",
-              "RelativeDocumentMoniker": "CalculationLibrary\\Class1.cs",
-              "ToolTip": "D:\\training\\siemens-dotnetcore-6thmay2024\\codes\\day-1\\CalculatorApp\\CalculationLibrary\\Class1.cs",
-              "RelativeToolTip": "CalculationLibrary\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "Calculation.cs",
+              "DocumentMoniker": "D:\\training\\siemens-dotnetcore-6thmay2024\\codes\\day-1\\CalculatorApp\\CalculationLibrary\\Calculation.cs",
+              "RelativeDocumentMoniker": "CalculationLibrary\\Calculation.cs",
+              "ToolTip": "D:\\training\\siemens-dotnetcore-6thmay2024\\codes\\day-1\\CalculatorApp\\CalculationLibrary\\Calculation.cs",
+              "RelativeToolTip": "CalculationLibrary\\Calculation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-06T11:25:20.157Z",
               "EditorCaption": ""
