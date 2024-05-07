@@ -30,3 +30,6 @@ I.		Every class should have both default and parameterized constructor
 II.		Assigning values to the fields of the classes should be done through overloaded constructors
 III.	Create properties for every data member of every class
 IV. 	Child class constructor should call overloaded constructor of the base class explicitly to by-pass all the values to the base class, and get all the common fields assigned there in the base class itself
+V. create a library for all the classes: Developer and HR
+VI. create a console application and add reference to the library for using those classes from Main method
+
