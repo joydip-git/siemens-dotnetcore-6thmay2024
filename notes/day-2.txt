@@ -1,0 +1,43 @@
+OOP
+	class, constructor, data members, methods, properties
+	static and instance members
+	access specifiers for class
+		- internal: within the same app(assembly) you can access the class from any other class (like public in the assembly), but you can't access this class in another app/assembly (like private). this is default access specifier for a class in C#.
+		- public
+
+	access specifiers for class members:
+		- private: default access specifier for any class member in C#
+		- protected
+		- public
+		- internal
+		- protected internal	
+
+readonly	=> a data member declared with readonly can be assigned through constructor and field initialization technique.
+static and const
+
+	Inheritance
+		constructor execution sequence
+		base keyword
+	Polymorphism	
+		compile time/static 	
+			method overloading
+			operator overloading
+		dynamic
+			virtual and override
+
+	abstract class
+		abstract keyword
+		implementing abstract members in a child class
+
+	interface
+		interface keyword
+		implementing abstract members in a child class
+
+	Object class members
+		virtual Equals() - override
+		virtaul ToString() - override
+		virtual GetHashCode() - override
+		GetType()
+
+
+VS tools path: C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools
