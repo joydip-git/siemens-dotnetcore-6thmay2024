@@ -75,6 +75,20 @@ interface: pure abstract class
 	properties and methods
 	no explicit constructors
 	interface members are by default public and abstract
+
+
+class:
+[concrete] Employee (virtual CaluclateSalary) => Developer and Hr (override CaluclateSalary)
+[abstract] Person (abstract IsOutstanding)	=> Professor and Student (override IsOutstanding)
+
+foreach(Person p in people){
+	if(p is Student){
+		Student student =(Student) p;
+	}
+}
+
+interface:
+[pure abstract] IShape (CalculateArea) => Circle and Triangle (CalculateArea)
 	
 
 
