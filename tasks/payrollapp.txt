@@ -1,0 +1,32 @@
+Payroll Application
+
+Problem Statement: 
+The application will be used to calculate and display salary of different types of employees, such as Developer, Manager, Human Resource people etc.
+
+Classes:
+Developer: 
+data members: name, id, basicpayment, dapayment, hrapayment, incentivepayment, totalsalary [to store calculated total salary]
+
+method:
+name: CalculateSalary
+arguments: None
+return type: void
+
+Hr: 
+data members: name, id, basicpayment, dapayment, hrapayment, gratuitypayment, totalsalary [to store calculated total salary]
+method:
+name: CalculateSalary
+arguments: None
+return type: void
+
+
+In “Main” method:
+a.	Create an array to store at least two Developer and two Hr class object references.
+b.	Ask for all the necessary inputs from user regarding Developer or Hr and then create the objects
+c. Iterate through the array and display salary of the employees
+
+Note:
+I.		Every class should have both default and parameterized constructor
+II.		Assigning values to the fields of the classes should be done through overloaded constructors
+III.	Create properties for every data member of every class
+IV. 	Child class constructor should call overloaded constructor of the base class explicitly to by-pass all the values to the base class, and get all the common fields assigned there in the base class itself
