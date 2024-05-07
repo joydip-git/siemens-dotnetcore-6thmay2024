@@ -1,0 +1,25 @@
+student:
+data members: name, marks
+method: 
+IsOutstanding (=>85)
+args: None
+RT: bool
+
+print: (returns name and marks)
+args:None
+RT: string
+
+professor:
+data members: name, booksPublished 
+method: IsOutstanding (>=5)
+args: None
+RT: bool
+
+show: (returns name and booksPublished)
+args:None
+RT: string
+
+In Main method:
+ create at least 4 objects (2 each of Student and Professor)
+ save them in an array
+ iterate through the array and display details of ONLY the outstanding people

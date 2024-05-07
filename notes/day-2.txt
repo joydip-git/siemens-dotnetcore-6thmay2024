@@ -44,6 +44,28 @@ VS tools path: C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.
 
 pointer => NOP  (Next Object Pointer)
 
+base class: abstract class Reader
+		 		string setting;
+		 		abstract void ReadData();
+
+class: FileReader
+		 string setting;
+		 override ReadData(){ //code}
+
+class: DbReader
+		 string setting;
+		 override ReadData(){ //code}
+	
+
+
+
+
+
+
+
+
+
+
 
 
 

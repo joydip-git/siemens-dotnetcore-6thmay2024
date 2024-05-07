@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\training\\siemens-dotnetcore-6thmay2024\\codes\\day-2\\AbstractDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4355F9A1-6A45-4EDB-83F0-8E055C8D919F}|Entities\\Entities.csproj|d:\\training\\siemens-dotnetcore-6thmay2024\\codes\\day-2\\abstractdemo\\entities\\filereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4355F9A1-6A45-4EDB-83F0-8E055C8D919F}|Entities\\Entities.csproj|solutionrelative:entities\\filereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4355F9A1-6A45-4EDB-83F0-8E055C8D919F}|Entities\\Entities.csproj|d:\\training\\siemens-dotnetcore-6thmay2024\\codes\\day-2\\abstractdemo\\entities\\dbreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4355F9A1-6A45-4EDB-83F0-8E055C8D919F}|Entities\\Entities.csproj|solutionrelative:entities\\dbreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4355F9A1-6A45-4EDB-83F0-8E055C8D919F}|Entities\\Entities.csproj|d:\\training\\siemens-dotnetcore-6thmay2024\\codes\\day-2\\abstractdemo\\entities\\reader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4355F9A1-6A45-4EDB-83F0-8E055C8D919F}|Entities\\Entities.csproj|solutionrelative:entities\\reader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54C59BFB-C0EF-4052-8CD0-CC8A49627A50}|Client\\Client.csproj|d:\\training\\siemens-dotnetcore-6thmay2024\\codes\\day-2\\abstractdemo\\client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54C59BFB-C0EF-4052-8CD0-CC8A49627A50}|Client\\Client.csproj|solutionrelative:client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileReader.cs",
+              "DocumentMoniker": "D:\\training\\siemens-dotnetcore-6thmay2024\\codes\\day-2\\AbstractDemo\\Entities\\FileReader.cs",
+              "RelativeDocumentMoniker": "Entities\\FileReader.cs",
+              "ToolTip": "D:\\training\\siemens-dotnetcore-6thmay2024\\codes\\day-2\\AbstractDemo\\Entities\\FileReader.cs",
+              "RelativeToolTip": "Entities\\FileReader.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T10:11:24.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\training\\siemens-dotnetcore-6thmay2024\\codes\\day-2\\AbstractDemo\\Client\\Program.cs",
+              "RelativeDocumentMoniker": "Client\\Program.cs",
+              "ToolTip": "D:\\training\\siemens-dotnetcore-6thmay2024\\codes\\day-2\\AbstractDemo\\Client\\Program.cs",
+              "RelativeToolTip": "Client\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T10:06:51.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DbReader.cs",
+              "DocumentMoniker": "D:\\training\\siemens-dotnetcore-6thmay2024\\codes\\day-2\\AbstractDemo\\Entities\\DbReader.cs",
+              "RelativeDocumentMoniker": "Entities\\DbReader.cs",
+              "ToolTip": "D:\\training\\siemens-dotnetcore-6thmay2024\\codes\\day-2\\AbstractDemo\\Entities\\DbReader.cs",
+              "RelativeToolTip": "Entities\\DbReader.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T10:01:39.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Reader.cs",
+              "DocumentMoniker": "D:\\training\\siemens-dotnetcore-6thmay2024\\codes\\day-2\\AbstractDemo\\Entities\\Reader.cs",
+              "RelativeDocumentMoniker": "Entities\\Reader.cs",
+              "ToolTip": "D:\\training\\siemens-dotnetcore-6thmay2024\\codes\\day-2\\AbstractDemo\\Entities\\Reader.cs",
+              "RelativeToolTip": "Entities\\Reader.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAwBAAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T09:56:46.276Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
