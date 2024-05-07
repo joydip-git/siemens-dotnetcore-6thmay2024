@@ -55,6 +55,26 @@ class: FileReader
 class: DbReader
 		 string setting;
 		 override ReadData(){ //code}
+
+
+abstract class A{
+   public int Id {set; get;}
+	public abstract string? Name {set; get;}
+}
+class B: A{
+	private string? name;
+	public override string? Name 
+	{
+		set => name = value;
+		get => name;
+	}
+}
+
+interface: pure abstract class
+	collection of ONLY abstract members
+	properties and methods
+	no explicit constructors
+	interface members are by default public and abstract
 	
 
 

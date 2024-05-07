@@ -1,0 +1,13 @@
+calculating the area of different shapes:
+
+circle:
+data member: radius
+method: double CalculateArea()
+
+triangle:
+data member: tbase and theight
+method: double CalculateArea()
+
+in Main method:
+create an array with two instances of shapes (one each of each shape)
+iterate through the array and calculate the area of every shape and print the same
