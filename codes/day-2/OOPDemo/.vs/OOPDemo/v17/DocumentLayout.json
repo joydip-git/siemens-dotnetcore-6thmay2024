@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\training\\siemens-dotnetcore-6thmay2024\\codes\\day-2\\OOPDemo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{63CD8E84-4488-48A0-ACD0-5E7BEBCF3A50}|Entities\\Entities.csproj|d:\\training\\siemens-dotnetcore-6thmay2024\\codes\\day-2\\oopdemo\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63CD8E84-4488-48A0-ACD0-5E7BEBCF3A50}|Entities\\Entities.csproj|solutionrelative:entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{75BE6DDC-7076-4547-86AF-3C39EED86566}|OOP_Class_Object_App\\OOP_Class_Object_App.csproj|d:\\training\\siemens-dotnetcore-6thmay2024\\codes\\day-2\\oopdemo\\oop_class_object_app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{75BE6DDC-7076-4547-86AF-3C39EED86566}|OOP_Class_Object_App\\OOP_Class_Object_App.csproj|solutionrelative:oop_class_object_app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{63CD8E84-4488-48A0-ACD0-5E7BEBCF3A50}|Entities\\Entities.csproj|d:\\training\\siemens-dotnetcore-6thmay2024\\codes\\day-2\\oopdemo\\entities\\check.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63CD8E84-4488-48A0-ACD0-5E7BEBCF3A50}|Entities\\Entities.csproj|solutionrelative:entities\\check.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{63CD8E84-4488-48A0-ACD0-5E7BEBCF3A50}|Entities\\Entities.csproj|d:\\training\\siemens-dotnetcore-6thmay2024\\codes\\day-2\\oopdemo\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63CD8E84-4488-48A0-ACD0-5E7BEBCF3A50}|Entities\\Entities.csproj|solutionrelative:entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63CD8E84-4488-48A0-ACD0-5E7BEBCF3A50}|Entities\\Entities.csproj|d:\\training\\siemens-dotnetcore-6thmay2024\\codes\\day-2\\oopdemo\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63CD8E84-4488-48A0-ACD0-5E7BEBCF3A50}|Entities\\Entities.csproj|solutionrelative:entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,43 +22,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Check.cs",
-              "DocumentMoniker": "D:\\training\\siemens-dotnetcore-6thmay2024\\codes\\day-2\\OOPDemo\\Entities\\Check.cs",
-              "RelativeDocumentMoniker": "Entities\\Check.cs",
-              "ToolTip": "D:\\training\\siemens-dotnetcore-6thmay2024\\codes\\day-2\\OOPDemo\\Entities\\Check.cs",
-              "RelativeToolTip": "Entities\\Check.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\training\\siemens-dotnetcore-6thmay2024\\codes\\day-2\\OOPDemo\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "Entities\\Category.cs",
+              "ToolTip": "D:\\training\\siemens-dotnetcore-6thmay2024\\codes\\day-2\\OOPDemo\\Entities\\Category.cs",
+              "RelativeToolTip": "Entities\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-07T04:34:49.844Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Account.cs",
               "DocumentMoniker": "D:\\training\\siemens-dotnetcore-6thmay2024\\codes\\day-2\\OOPDemo\\Entities\\Account.cs",
               "RelativeDocumentMoniker": "Entities\\Account.cs",
               "ToolTip": "D:\\training\\siemens-dotnetcore-6thmay2024\\codes\\day-2\\OOPDemo\\Entities\\Account.cs",
               "RelativeToolTip": "Entities\\Account.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAJAAAA",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAAwF8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-07T04:34:22.825Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\training\\siemens-dotnetcore-6thmay2024\\codes\\day-2\\OOPDemo\\OOP_Class_Object_App\\Program.cs",
               "RelativeDocumentMoniker": "OOP_Class_Object_App\\Program.cs",
               "ToolTip": "D:\\training\\siemens-dotnetcore-6thmay2024\\codes\\day-2\\OOPDemo\\OOP_Class_Object_App\\Program.cs",
               "RelativeToolTip": "OOP_Class_Object_App\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABYAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-07T04:31:22.866Z",
               "EditorCaption": ""

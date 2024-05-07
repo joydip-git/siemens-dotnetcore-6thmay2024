@@ -1,0 +1,12 @@
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-2\Iheritance_Polymorphism_Demo\Entities\bin\Debug\net8.0\Entities.deps.json
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-2\Iheritance_Polymorphism_Demo\Entities\bin\Debug\net8.0\Entities.dll
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-2\Iheritance_Polymorphism_Demo\Entities\bin\Debug\net8.0\Entities.pdb
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-2\Iheritance_Polymorphism_Demo\Entities\obj\Debug\net8.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-2\Iheritance_Polymorphism_Demo\Entities\obj\Debug\net8.0\Entities.AssemblyInfoInputs.cache
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-2\Iheritance_Polymorphism_Demo\Entities\obj\Debug\net8.0\Entities.AssemblyInfo.cs
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-2\Iheritance_Polymorphism_Demo\Entities\obj\Debug\net8.0\Entities.csproj.CoreCompileInputs.cache
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-2\Iheritance_Polymorphism_Demo\Entities\obj\Debug\net8.0\Entities.sourcelink.json
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-2\Iheritance_Polymorphism_Demo\Entities\obj\Debug\net8.0\Entities.dll
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-2\Iheritance_Polymorphism_Demo\Entities\obj\Debug\net8.0\refint\Entities.dll
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-2\Iheritance_Polymorphism_Demo\Entities\obj\Debug\net8.0\Entities.pdb
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-2\Iheritance_Polymorphism_Demo\Entities\obj\Debug\net8.0\ref\Entities.dll

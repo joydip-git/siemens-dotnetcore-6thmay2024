@@ -15,7 +15,7 @@ OOP
 readonly	=> a data member declared with readonly can be assigned through constructor and field initialization technique.
 static and const
 
-	Inheritance
+	Inheritance [ C# does not support multiple inheritance]
 		constructor execution sequence
 		base keyword
 	Polymorphism	
@@ -41,3 +41,9 @@ static and const
 
 
 VS tools path: C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools
+
+pointer => NOP  (Next Object Pointer)
+
+
+
+

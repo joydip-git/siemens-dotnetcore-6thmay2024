@@ -1,5 +1,8 @@
-﻿namespace Entities
+﻿using System.Xml.Linq;
+
+namespace Entities
 {
+    /*
     public class Account
     {
         string? name;
@@ -81,5 +84,45 @@
         {
             return $"{name}, {accId}, {balance}";
         }
+    }
+    */
+
+    public class Account
+    {
+        #region data members
+        public const string BANK_BRANCH = "Electronic City";
+        private readonly int accId;
+        #endregion
+
+        #region properties
+        //automatic properties or auto-implemented properties
+        public string? Name { get; set; }
+        public decimal? Balance { get; private set; }
+
+        //public int AccId { get {return  accId;} }
+        //public int AccId { get => accId; }
+
+        //expression body syntax for read-only property
+        public int AccId => accId;
+        #endregion
+
+        #region constructors
+        public Account() { }
+
+        public Account(int accId, string? name = null, decimal? balance = 0)
+        {
+            this.accId = accId;
+            Name = name;
+            Balance = balance;
+        }
+        #endregion
+
+        #region methods
+        //expression body syntax for method which returns a value
+        public string GetInformation() => $"{Name}, {accId}, {Balance}";
+
+        //expression body syntax for method which returns nothing
+        public void Credit(decimal amount) => Balance += amount;
+        #endregion
     }
 }
