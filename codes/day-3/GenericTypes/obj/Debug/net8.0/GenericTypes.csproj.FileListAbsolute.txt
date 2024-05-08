@@ -1,0 +1,15 @@
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-3\GenericTypes\bin\Debug\net8.0\GenericTypes.exe
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-3\GenericTypes\bin\Debug\net8.0\GenericTypes.deps.json
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-3\GenericTypes\bin\Debug\net8.0\GenericTypes.runtimeconfig.json
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-3\GenericTypes\bin\Debug\net8.0\GenericTypes.dll
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-3\GenericTypes\bin\Debug\net8.0\GenericTypes.pdb
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-3\GenericTypes\obj\Debug\net8.0\GenericTypes.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-3\GenericTypes\obj\Debug\net8.0\GenericTypes.AssemblyInfoInputs.cache
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-3\GenericTypes\obj\Debug\net8.0\GenericTypes.AssemblyInfo.cs
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-3\GenericTypes\obj\Debug\net8.0\GenericTypes.csproj.CoreCompileInputs.cache
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-3\GenericTypes\obj\Debug\net8.0\GenericTypes.sourcelink.json
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-3\GenericTypes\obj\Debug\net8.0\GenericTypes.dll
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-3\GenericTypes\obj\Debug\net8.0\refint\GenericTypes.dll
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-3\GenericTypes\obj\Debug\net8.0\GenericTypes.pdb
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-3\GenericTypes\obj\Debug\net8.0\GenericTypes.genruntimeconfig.cache
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-3\GenericTypes\obj\Debug\net8.0\ref\GenericTypes.dll

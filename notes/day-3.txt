@@ -1,0 +1,8 @@
+1. Object class methods
+	 - GetHashCode()
+	 - Equals()
+	 - ToString()
+
+2. Generic types/methods etc.
+3. Collections and Generic Collections
+4. Exception Handling
