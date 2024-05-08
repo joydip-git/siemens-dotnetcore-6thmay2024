@@ -1,0 +1,25 @@
+﻿1. ArrayList (System.Collections)
+2. List<T> (System.Collections.Generic)
+3. Comparison of elements in a List<T>
+	a. Sort() => implement IComparable<T> in the entity (T)
+	b. Sort(IComparer<T> comp) => implement IComparer<T> in the separate class (TComparison)
+
+[System]
+4. IComparable => int CompareTo(object? obj);
+5. IComparable<T> => int CompareTo(T? other);
+
+[System.Collections]
+6. IComparer => int Compare(object? x, object? y);
+
+[System.Collections.Generic]
+7. IComparer<T> => int Compare(T? x, T? y);
+
+
+IEnumerable<T> => IEnumerator<T> GetEnumerator();
+ICollection<T>:IEnumerable<T> => Add, Remove, Count, Capacity,...
+
+IList<T>:ICollection<T>, IEnumerable<T> => [], RemoveAt, Insert,...
+
+List<T>:IList<T>, ICollection<T>, IEnumerable<T>
+
+HashSet<T>:ICollection<T>, IEnumerable<T>

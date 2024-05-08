@@ -174,5 +174,37 @@ namespace CollectionsAndGenericCollections
                 Console.WriteLine(item);
             }
         }
+
+        public static void UseSetOfNumbers()
+        {           
+            HashSet<int> setOfNumbers = new HashSet<int>();
+            setOfNumbers.Add(1);
+            setOfNumbers.Add(1);
+            setOfNumbers.Add(2);
+
+            foreach (var item in setOfNumbers)
+            {
+                Console.WriteLine(item);
+            }
+        }
+        public static void UseSetOfEmployees()
+        {
+            HashSet<Employee> employees = new HashSet<Employee>();
+            employees.Add(new Employee { Id = 1, Name = "anil", Salary = 1000 });
+            //empObject.GetHashCode()
+            employees.Add(new Employee { Id = 1, Name = "anil", Salary = 1000 });
+            //empObject.GetHashCode()
+            //empObject.Equals(otherEmpObject)
+
+            employees.Add(new Employee { Id = 2, Name = "sunil", Salary = 2000 });
+            //empObject.GetHashCode()
+
+            //employees.Remove()            
+
+            foreach (var item in employees)
+            {
+                Console.WriteLine(item);
+            }
+        }
     }
 }

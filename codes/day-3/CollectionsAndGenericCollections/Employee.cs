@@ -29,6 +29,24 @@
             return $"{Id}, {Name}, {Salary}";
         }
 
+        public override int GetHashCode()
+        {
+            var hash = this.Id.GetHashCode();
+            return hash;
+        }
+
+        public override bool Equals(object? obj)
+        {
+            if (obj == null) return false;
+            if (obj == this) return true;
+            Employee other = (Employee)obj;
+            if (!this.Id.Equals(other.Id)) return false;
+            //if (!this.Name.Equals(other?.Name)) return false;
+            //if (!this.Salary.Equals(other.Salary)) return false;
+
+            return true;
+        }
+
         //logic of comparison is written inside Employee class: internalization of comparison
         public int CompareTo(Employee? other)
         {

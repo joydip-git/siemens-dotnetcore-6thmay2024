@@ -1,0 +1,15 @@
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-3\Impementation\bin\Debug\net8.0\Impementation.exe
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-3\Impementation\bin\Debug\net8.0\Impementation.deps.json
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-3\Impementation\bin\Debug\net8.0\Impementation.runtimeconfig.json
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-3\Impementation\bin\Debug\net8.0\Impementation.dll
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-3\Impementation\bin\Debug\net8.0\Impementation.pdb
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-3\Impementation\obj\Debug\net8.0\Impementation.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-3\Impementation\obj\Debug\net8.0\Impementation.AssemblyInfoInputs.cache
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-3\Impementation\obj\Debug\net8.0\Impementation.AssemblyInfo.cs
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-3\Impementation\obj\Debug\net8.0\Impementation.csproj.CoreCompileInputs.cache
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-3\Impementation\obj\Debug\net8.0\Impementation.sourcelink.json
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-3\Impementation\obj\Debug\net8.0\Impementation.dll
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-3\Impementation\obj\Debug\net8.0\refint\Impementation.dll
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-3\Impementation\obj\Debug\net8.0\Impementation.pdb
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-3\Impementation\obj\Debug\net8.0\Impementation.genruntimeconfig.cache
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-3\Impementation\obj\Debug\net8.0\ref\Impementation.dll

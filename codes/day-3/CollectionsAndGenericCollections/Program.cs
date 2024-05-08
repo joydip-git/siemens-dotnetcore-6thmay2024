@@ -11,7 +11,10 @@ int i = (int)xObj;
 //UseList();
 
 //SortIntegerElements();
-SortEmployess();
+//SortEmployess();
+
+//UseSetOfNumbers();
+UseSetOfEmployees();
 
 
 
