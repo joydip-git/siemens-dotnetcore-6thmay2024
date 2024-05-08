@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CollectionsAndGenericCollections/1.0.0": {
+        "runtime": {
+          "CollectionsAndGenericCollections.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CollectionsAndGenericCollections/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

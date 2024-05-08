@@ -1,0 +1,15 @@
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-3\CollectionsAndGenericCollections\bin\Debug\net8.0\CollectionsAndGenericCollections.exe
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-3\CollectionsAndGenericCollections\bin\Debug\net8.0\CollectionsAndGenericCollections.deps.json
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-3\CollectionsAndGenericCollections\bin\Debug\net8.0\CollectionsAndGenericCollections.runtimeconfig.json
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-3\CollectionsAndGenericCollections\bin\Debug\net8.0\CollectionsAndGenericCollections.dll
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-3\CollectionsAndGenericCollections\bin\Debug\net8.0\CollectionsAndGenericCollections.pdb
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-3\CollectionsAndGenericCollections\obj\Debug\net8.0\CollectionsAndGenericCollections.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-3\CollectionsAndGenericCollections\obj\Debug\net8.0\CollectionsAndGenericCollections.AssemblyInfoInputs.cache
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-3\CollectionsAndGenericCollections\obj\Debug\net8.0\CollectionsAndGenericCollections.AssemblyInfo.cs
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-3\CollectionsAndGenericCollections\obj\Debug\net8.0\CollectionsAndGenericCollections.csproj.CoreCompileInputs.cache
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-3\CollectionsAndGenericCollections\obj\Debug\net8.0\CollectionsAndGenericCollections.sourcelink.json
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-3\CollectionsAndGenericCollections\obj\Debug\net8.0\CollectionsAndGenericCollections.dll
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-3\CollectionsAndGenericCollections\obj\Debug\net8.0\refint\CollectionsAndGenericCollections.dll
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-3\CollectionsAndGenericCollections\obj\Debug\net8.0\CollectionsAndGenericCollections.pdb
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-3\CollectionsAndGenericCollections\obj\Debug\net8.0\CollectionsAndGenericCollections.genruntimeconfig.cache
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-3\CollectionsAndGenericCollections\obj\Debug\net8.0\ref\CollectionsAndGenericCollections.dll

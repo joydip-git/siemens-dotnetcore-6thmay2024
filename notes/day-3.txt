@@ -6,3 +6,6 @@
 2. Generic types/methods etc.
 3. Collections and Generic Collections
 4. Exception Handling
+
+IComparable => int CompareTo(object obj)
+IComparable<T> => int CompareTo(T obj)
