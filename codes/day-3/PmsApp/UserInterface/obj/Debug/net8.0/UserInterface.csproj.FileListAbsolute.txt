@@ -1,0 +1,6 @@
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-3\PmsApp\UserInterface\obj\Debug\net8.0\UserInterface.csproj.AssemblyReference.cache
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-3\PmsApp\UserInterface\obj\Debug\net8.0\UserInterface.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-3\PmsApp\UserInterface\obj\Debug\net8.0\UserInterface.AssemblyInfoInputs.cache
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-3\PmsApp\UserInterface\obj\Debug\net8.0\UserInterface.AssemblyInfo.cs
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-3\PmsApp\UserInterface\obj\Debug\net8.0\UserInterface.csproj.CoreCompileInputs.cache
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-3\PmsApp\UserInterface\obj\Debug\net8.0\UserInterface.sourcelink.json
