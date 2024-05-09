@@ -10,3 +10,18 @@ new DivideByZeroException() => _message, _stackTrace, _source
 			- NullReferenceException
 			- ArithmeticException
 			- ArgumentException
+
+
+Reflection: runtime type discovery
+	1. load assembly dynamically [Assembly]
+	2. extract metadata about the types from that assembly during runtime
+	[Type]
+	3. extract information about members of the types dynamically
+	[FiledInfo, ConstructorInfo, PropertyInfo, MethodInfo, MemberInfo]
+	4. create instance of a type dynaically (Activator.CreateInstance, invoke constructorinfo instance)
+	5. invoke properties/methods of that instance dynamically
+	[MethodInfo.Invoke() or PropertyInfo.SetValue/GetValue]
+
+ILDASM  uses reflection
+
+Delegates

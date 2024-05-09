@@ -1,0 +1,15 @@
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-4\ReflectionDemo\Client\bin\Debug\net8.0\Client.exe
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-4\ReflectionDemo\Client\bin\Debug\net8.0\Client.deps.json
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-4\ReflectionDemo\Client\bin\Debug\net8.0\Client.runtimeconfig.json
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-4\ReflectionDemo\Client\bin\Debug\net8.0\Client.dll
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-4\ReflectionDemo\Client\bin\Debug\net8.0\Client.pdb
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-4\ReflectionDemo\Client\obj\Debug\net8.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-4\ReflectionDemo\Client\obj\Debug\net8.0\Client.AssemblyInfoInputs.cache
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-4\ReflectionDemo\Client\obj\Debug\net8.0\Client.AssemblyInfo.cs
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-4\ReflectionDemo\Client\obj\Debug\net8.0\Client.csproj.CoreCompileInputs.cache
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-4\ReflectionDemo\Client\obj\Debug\net8.0\Client.sourcelink.json
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-4\ReflectionDemo\Client\obj\Debug\net8.0\Client.dll
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-4\ReflectionDemo\Client\obj\Debug\net8.0\refint\Client.dll
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-4\ReflectionDemo\Client\obj\Debug\net8.0\Client.pdb
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-4\ReflectionDemo\Client\obj\Debug\net8.0\Client.genruntimeconfig.cache
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-4\ReflectionDemo\Client\obj\Debug\net8.0\ref\Client.dll
