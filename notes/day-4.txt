@@ -24,4 +24,10 @@ Reflection: runtime type discovery
 
 ILDASM  uses reflection
 
-Delegates
+Delegate =>
+	which holds reference to a method (more than one method)
+
+callback scenario
+
+
+
