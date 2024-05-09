@@ -40,14 +40,32 @@ namespace BusinessLogic
                 else if (records?.Count() == 0)
                     throw new ServiceException("no records");
                 else
-                    return records;
+                {
+                    IEnumerable<Product>? result = null;
+                    switch (sortChoice)
+                    {
+                        case 1:
+                            result = records?.OrderBy(p => p.Id);
+                            break;
+                        case 2:
+                            result = records?.OrderBy(p => p.Name);
+                            break;
+                        case 3:
+                            result = records?.OrderBy(p => p.Price);
+                            break;
+                        default:
+                            result = records?.OrderBy(p => p.Id);
+                            break;
+                    }
+                    return result;
+                }
             }
-            catch(NullReferenceException ex)
+            catch (NullReferenceException ex)
             {
                 var e = ExceptionWrapper<ServiceException>.WrapException(ex.Message, ex);
                 throw e ?? new ServiceException(ex.Message, ex);
             }
-            catch(ServiceException)
+            catch (ServiceException)
             {
                 throw;
             }
@@ -73,21 +91,28 @@ namespace BusinessLogic
                 if (records == null)
                     throw new NullReferenceException("could not fetch records");
                 else if (records?.Count() == 0)
-                    throw new ServiceException("no records");
+                {
+                    item.Id = 1;
+                }
                 else
                 {
                     //auto generation of id for an item
-                    Random rand = new Random();
-                    item.Id = rand.Next(100, 200);
-                    return _reposiroty.Add(item);
+                    //Random rand = new Random();
+                    //item.Id = rand.Next(100, 200);
+                    var lastProduct = records?.Last();
+                    if (lastProduct != null)
+                    {
+                        item.Id = lastProduct.Id + 1;
+                    }                    
                 }
+                return _reposiroty.Add(item);
             }
             catch (RepositoryException ex)
             {
                 var e = ExceptionWrapper<ServiceException>.WrapException(ex.Message, ex);
                 throw e ?? new ServiceException(ex.Message, ex);
             }
-            catch(NullReferenceException ex)
+            catch (NullReferenceException ex)
             {
                 var e = ExceptionWrapper<ServiceException>.WrapException(ex.Message, ex);
                 throw e ?? new ServiceException(ex.Message, ex);
@@ -116,7 +141,7 @@ namespace BusinessLogic
                 }
                 return false;
             }
-            catch(NullReferenceException ex)
+            catch (NullReferenceException ex)
             {
                 var e = ExceptionWrapper<ServiceException>.WrapException(ex.Message, ex);
                 throw e ?? new ServiceException(ex.Message, ex);

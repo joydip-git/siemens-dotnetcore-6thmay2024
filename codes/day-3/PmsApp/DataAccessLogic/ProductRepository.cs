@@ -105,15 +105,16 @@ namespace DataAccessLogic
         private Product? DoesExist(int id)
         {
             var records = _database.Products;
-            Product? found = null;
-            foreach (var p in records)
-            {
-                if (id == p.Id)
-                {
-                    found = p;
-                    break;
-                }
-            }
+            Product? found = records.Where(p => p.Id == id).First();
+            //Product? found = null;
+            //foreach (var p in records)
+            //{
+            //    if (id == p.Id)
+            //    {
+            //        found = p;
+            //        break;
+            //    }
+            //}
             return found;
         }
         #endregion

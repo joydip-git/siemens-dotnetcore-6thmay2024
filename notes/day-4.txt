@@ -29,5 +29,18 @@ Delegate =>
 
 callback scenario
 
+products
+	id(pk) name price categoryid(fk)
+	1		dell				1
+	2 		one+				2
+
+categories
+	id(pk) name
+	1		Laptop
+	2		Mobile
+
+
+
+
 
 

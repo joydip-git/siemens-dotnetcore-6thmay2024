@@ -3,14 +3,7 @@
   "WorkspaceRootPath": "D:\\training\\siemens-dotnetcore-6thmay2024\\codes\\day-4\\DelegateDemo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{551FA0B1-FADA-443F-A106-60177FB723F9}|..\\Implemenation\\Implemenation.csproj|d:\\training\\siemens-dotnetcore-6thmay2024\\codes\\day-4\\implemenation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F74930AC-D0F5-408A-AA92-569B3CBAAD27}|DelegateDemo.csproj|d:\\training\\siemens-dotnetcore-6thmay2024\\codes\\day-4\\delegatedemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F74930AC-D0F5-408A-AA92-569B3CBAAD27}|DelegateDemo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{73644120-A148-4538-82D4-04C34F447F2E}|..\\BuiltInDelegates\\BuiltInDelegates.csproj|d:\\training\\siemens-dotnetcore-6thmay2024\\codes\\day-4\\builtindelegates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D4ED0885-4598-43D9-9089-81062B617743}|..\\JoinQuery\\JoinQuery.csproj|d:\\training\\siemens-dotnetcore-6thmay2024\\codes\\day-4\\joinquery\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,45 +13,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\training\\siemens-dotnetcore-6thmay2024\\codes\\day-4\\DelegateDemo\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\training\\siemens-dotnetcore-6thmay2024\\codes\\day-4\\DelegateDemo\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAADkAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T09:51:35.064Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\training\\siemens-dotnetcore-6thmay2024\\codes\\day-4\\Implemenation\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Implemenation\\Program.cs",
-              "ToolTip": "D:\\training\\siemens-dotnetcore-6thmay2024\\codes\\day-4\\Implemenation\\Program.cs",
-              "RelativeToolTip": "..\\Implemenation\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "DocumentMoniker": "D:\\training\\siemens-dotnetcore-6thmay2024\\codes\\day-4\\JoinQuery\\Program.cs",
+              "RelativeDocumentMoniker": "..\\JoinQuery\\Program.cs",
+              "ToolTip": "D:\\training\\siemens-dotnetcore-6thmay2024\\codes\\day-4\\JoinQuery\\Program.cs",
+              "RelativeToolTip": "..\\JoinQuery\\Program.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAADAAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T09:26:01.844Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\training\\siemens-dotnetcore-6thmay2024\\codes\\day-4\\BuiltInDelegates\\Program.cs",
-              "RelativeDocumentMoniker": "..\\BuiltInDelegates\\Program.cs",
-              "ToolTip": "D:\\training\\siemens-dotnetcore-6thmay2024\\codes\\day-4\\BuiltInDelegates\\Program.cs",
-              "RelativeToolTip": "..\\BuiltInDelegates\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T09:25:17.984Z",
+              "WhenOpened": "2024-05-09T11:17:50.686Z",
               "EditorCaption": ""
             }
           ]
