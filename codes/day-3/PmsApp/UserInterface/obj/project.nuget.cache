@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "kKCf440WU+2OElQnD9ur3zrb9kc3k/USbtu4y/oKcWU/s2hMn5RVdaEo6eX5GqRcpDm0PmxaUgU5pjQ4DNRMlQ==",
+  "dgSpecHash": "JKOsLYq6vGf1bR5PmmPpJ8oGMKILHyC5kVfsTvPjalJi/GYjWaCuz2a9eA4LKVYhywxMbppRCtUZw2qwsklfLg==",
   "success": true,
   "projectFilePath": "D:\\training\\siemens-dotnetcore-6thmay2024\\codes\\day-3\\PmsApp\\UserInterface\\UserInterface.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\joydip\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512"
+    "C:\\Users\\joydip\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\joydip\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
   ],
   "logs": []
 }

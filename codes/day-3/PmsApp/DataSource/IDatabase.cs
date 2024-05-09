@@ -2,8 +2,8 @@
 
 namespace DataSource
 {
-    public interface IDatabase
+    public interface IDatabase<T> where T : class
     {
-        ICollection<Product> Products { get; }
+        ICollection<T> Products { get; }
     }
 }

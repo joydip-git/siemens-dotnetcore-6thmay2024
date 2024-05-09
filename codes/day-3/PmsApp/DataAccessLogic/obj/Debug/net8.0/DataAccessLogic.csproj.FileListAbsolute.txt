@@ -16,3 +16,5 @@ D:\training\siemens-dotnetcore-6thmay2024\codes\day-3\PmsApp\DataAccessLogic\obj
 D:\training\siemens-dotnetcore-6thmay2024\codes\day-3\PmsApp\DataAccessLogic\obj\Debug\net8.0\refint\DataAccessLogic.dll
 D:\training\siemens-dotnetcore-6thmay2024\codes\day-3\PmsApp\DataAccessLogic\obj\Debug\net8.0\DataAccessLogic.pdb
 D:\training\siemens-dotnetcore-6thmay2024\codes\day-3\PmsApp\DataAccessLogic\obj\Debug\net8.0\ref\DataAccessLogic.dll
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-3\PmsApp\DataAccessLogic\bin\Debug\net8.0\PmsAppExceptions.dll
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-3\PmsApp\DataAccessLogic\bin\Debug\net8.0\PmsAppExceptions.pdb

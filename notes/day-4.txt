@@ -1,0 +1,12 @@
+1. Exception Handling
+
+1/0 =>
+
+new DivideByZeroException() => _message, _stackTrace, _source
+
+
+												Exception => Message, StackTrace, Source...
+		SystemException										ApplicationException
+			- NullReferenceException
+			- ArithmeticException
+			- ArgumentException

@@ -1,4 +1,4 @@
-package: Microsoft.Extensions.DependencyInjection.Abstractions
+package: Microsoft.Extensions.DependencyInjection
 
 Namespace:
 Microsoft.Extensions.DependencyInjection

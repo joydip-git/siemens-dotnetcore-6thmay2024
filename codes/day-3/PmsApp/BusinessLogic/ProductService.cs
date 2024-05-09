@@ -1,5 +1,6 @@
 ﻿using DataAccessLogic;
 using Entities;
+using PmsAppExceptions;
 
 namespace BusinessLogic
 {
@@ -9,61 +10,149 @@ namespace BusinessLogic
 
         public Product? Fetch(int id)
         {
-            if (id > 0)
+            try
             {
-                return _reposiroty.Get(id);
+                if (id > 0)
+                {
+                    return _reposiroty.Get(id);
+                }
+                return null;
             }
-            return null;
+            catch (RepositoryException ex)
+            {
+                var e = ExceptionWrapper<ServiceException>.WrapException(ex.Message, ex);
+                throw e ?? new ServiceException(ex.Message, ex);
+            }
+            catch (Exception ex)
+            {
+                var e = ExceptionWrapper<ServiceException>.WrapException(ex.Message, ex);
+                throw e ?? new ServiceException(ex.Message, ex);
+            }
         }
 
-        public IEnumerable<Product> FetchAll(int sortChoice = 0)
+        public IEnumerable<Product>? FetchAll(int sortChoice = 0)
         {
-            var records = _reposiroty.GetAll();
-            if (records == null)
-                throw new Exception("could not fetch records");
-            else if (records?.Count() == 0)
-                throw new Exception("no records");
-            else
-                return records;
+            try
+            {
+                var records = _reposiroty.GetAll();
+                if (records == null)
+                    throw new NullReferenceException("could not fetch records");
+                else if (records?.Count() == 0)
+                    throw new ServiceException("no records");
+                else
+                    return records;
+            }
+            catch(NullReferenceException ex)
+            {
+                var e = ExceptionWrapper<ServiceException>.WrapException(ex.Message, ex);
+                throw e ?? new ServiceException(ex.Message, ex);
+            }
+            catch(ServiceException)
+            {
+                throw;
+            }
+            catch (RepositoryException ex)
+            {
+                var e = ExceptionWrapper<ServiceException>.WrapException(ex.Message, ex);
+                throw e ?? new ServiceException(ex.Message, ex);
+            }
+            catch (Exception ex)
+            {
+                var e = ExceptionWrapper<ServiceException>.WrapException(ex.Message, ex);
+                throw e ?? new ServiceException(ex.Message, ex);
+            }
         }
 
         public bool Insert(Product item)
         {
-            if (item == null)
-                throw new NullReferenceException("argument was null");
-            var records = _reposiroty.GetAll();
-            if (records == null)
-                throw new Exception("could not fetch records");
-            else if (records?.Count() == 0)
-                throw new Exception("no records");
-            else
+            try
             {
-                //auto generation of id for an item
-                Random rand = new Random();
-                item.Id = rand.Next(100, 200);
-                return _reposiroty.Add(item);
+                if (item == null)
+                    throw new NullReferenceException("argument was null");
+                var records = _reposiroty.GetAll();
+                if (records == null)
+                    throw new NullReferenceException("could not fetch records");
+                else if (records?.Count() == 0)
+                    throw new ServiceException("no records");
+                else
+                {
+                    //auto generation of id for an item
+                    Random rand = new Random();
+                    item.Id = rand.Next(100, 200);
+                    return _reposiroty.Add(item);
+                }
+            }
+            catch (RepositoryException ex)
+            {
+                var e = ExceptionWrapper<ServiceException>.WrapException(ex.Message, ex);
+                throw e ?? new ServiceException(ex.Message, ex);
+            }
+            catch(NullReferenceException ex)
+            {
+                var e = ExceptionWrapper<ServiceException>.WrapException(ex.Message, ex);
+                throw e ?? new ServiceException(ex.Message, ex);
+            }
+            catch (ServiceException)
+            {
+                throw;
+            }
+            catch (Exception ex)
+            {
+                var e = ExceptionWrapper<ServiceException>.WrapException(ex.Message, ex);
+                throw e ?? new ServiceException(ex.Message, ex);
             }
         }
 
         public bool Modify(int id, Product item)
         {
-            if (id > 0)
+            try
             {
-                if (item == null)
-                    throw new NullReferenceException("argument was null");
+                if (id > 0)
+                {
+                    if (item == null)
+                        throw new NullReferenceException("argument was null");
 
-                return _reposiroty.Update(id, item);
+                    return _reposiroty.Update(id, item);
+                }
+                return false;
             }
-            return false;
+            catch(NullReferenceException ex)
+            {
+                var e = ExceptionWrapper<ServiceException>.WrapException(ex.Message, ex);
+                throw e ?? new ServiceException(ex.Message, ex);
+            }
+            catch (RepositoryException ex)
+            {
+                var e = ExceptionWrapper<ServiceException>.WrapException(ex.Message, ex);
+                throw e ?? new ServiceException(ex.Message, ex);
+            }
+            catch (Exception ex)
+            {
+                var e = ExceptionWrapper<ServiceException>.WrapException(ex.Message, ex);
+                throw e ?? new ServiceException(ex.Message, ex);
+            }
         }
 
         public bool Remove(int id)
         {
-            if (id > 0)
+            try
             {
-                return _reposiroty.Delete(id);
+                if (id > 0)
+                {
+                    return _reposiroty.Delete(id);
+                }
+                return false;
             }
-            return false;
+            catch (RepositoryException ex)
+            {
+                var e = ExceptionWrapper<ServiceException>.WrapException(ex.Message, ex);
+                throw e ?? new ServiceException(ex.Message, ex);
+            }
+            catch (Exception ex)
+            {
+                var e = ExceptionWrapper<ServiceException>.WrapException(ex.Message, ex);
+                throw e ?? new ServiceException(ex.Message, ex);
+            }
         }
     }
 }

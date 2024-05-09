@@ -1,0 +1,12 @@
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-3\PmsApp\PmsIoc\bin\Debug\net8.0\PmsIoc.deps.json
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-3\PmsApp\PmsIoc\bin\Debug\net8.0\PmsIoc.dll
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-3\PmsApp\PmsIoc\bin\Debug\net8.0\PmsIoc.pdb
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-3\PmsApp\PmsIoc\obj\Debug\net8.0\PmsIoc.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-3\PmsApp\PmsIoc\obj\Debug\net8.0\PmsIoc.AssemblyInfoInputs.cache
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-3\PmsApp\PmsIoc\obj\Debug\net8.0\PmsIoc.AssemblyInfo.cs
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-3\PmsApp\PmsIoc\obj\Debug\net8.0\PmsIoc.csproj.CoreCompileInputs.cache
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-3\PmsApp\PmsIoc\obj\Debug\net8.0\PmsIoc.sourcelink.json
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-3\PmsApp\PmsIoc\obj\Debug\net8.0\PmsIoc.dll
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-3\PmsApp\PmsIoc\obj\Debug\net8.0\refint\PmsIoc.dll
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-3\PmsApp\PmsIoc\obj\Debug\net8.0\PmsIoc.pdb
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-3\PmsApp\PmsIoc\obj\Debug\net8.0\ref\PmsIoc.dll

@@ -9,6 +9,7 @@
   <ItemGroup>
     <ProjectReference Include="..\DataSource\DataSource.csproj" />
     <ProjectReference Include="..\Entities\Entities.csproj" />
+    <ProjectReference Include="..\PmsAppExceptions\PmsAppExceptions.csproj" />
   </ItemGroup>
 
 </Project>

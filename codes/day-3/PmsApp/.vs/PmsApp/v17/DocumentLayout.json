@@ -3,28 +3,48 @@
   "WorkspaceRootPath": "D:\\training\\siemens-dotnetcore-6thmay2024\\codes\\day-3\\PmsApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CBA546FF-CCA7-4C7F-BA5A-78F7048A8FA9}|PmsAppExceptions\\PmsAppExceptions.csproj|d:\\training\\siemens-dotnetcore-6thmay2024\\codes\\day-3\\pmsapp\\pmsappexceptions\\serviceexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBA546FF-CCA7-4C7F-BA5A-78F7048A8FA9}|PmsAppExceptions\\PmsAppExceptions.csproj|solutionrelative:pmsappexceptions\\serviceexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBA546FF-CCA7-4C7F-BA5A-78F7048A8FA9}|PmsAppExceptions\\PmsAppExceptions.csproj|d:\\training\\siemens-dotnetcore-6thmay2024\\codes\\day-3\\pmsapp\\pmsappexceptions\\repositoryexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBA546FF-CCA7-4C7F-BA5A-78F7048A8FA9}|PmsAppExceptions\\PmsAppExceptions.csproj|solutionrelative:pmsappexceptions\\repositoryexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7FC73268-DB42-4665-A12C-5C7A7E37A972}|UserInterface\\UserInterface.csproj|d:\\training\\siemens-dotnetcore-6thmay2024\\codes\\day-3\\pmsapp\\userinterface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7FC73268-DB42-4665-A12C-5C7A7E37A972}|UserInterface\\UserInterface.csproj|solutionrelative:userinterface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64E52EE0-01BC-4266-8FE0-A21D4267900D}|DataSource\\DataSource.csproj|d:\\training\\siemens-dotnetcore-6thmay2024\\codes\\day-3\\pmsapp\\datasource\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64E52EE0-01BC-4266-8FE0-A21D4267900D}|DataSource\\DataSource.csproj|solutionrelative:datasource\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8FA9E593-A916-440B-9460-67E70B80D72D}|Solution Items{8FA9E593-A916-440B-9460-67E70B80D72D}|D:\\training\\siemens-dotnetcore-6thmay2024\\codes\\day-3\\PmsApp\\Notes.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{8FA9E593-A916-440B-9460-67E70B80D72D}|Solution Items{8FA9E593-A916-440B-9460-67E70B80D72D}|solutionrelative:Notes.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E9147D41-44CE-4D0A-A2CC-21E4E12AE0A8}|BusinessLogic\\BusinessLogic.csproj|d:\\training\\siemens-dotnetcore-6thmay2024\\codes\\day-3\\pmsapp\\businesslogic\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E9147D41-44CE-4D0A-A2CC-21E4E12AE0A8}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{64E52EE0-01BC-4266-8FE0-A21D4267900D}|DataSource\\DataSource.csproj|d:\\training\\siemens-dotnetcore-6thmay2024\\codes\\day-3\\pmsapp\\datasource\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64E52EE0-01BC-4266-8FE0-A21D4267900D}|DataSource\\DataSource.csproj|solutionrelative:datasource\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{176EAC03-AC35-47EA-9F78-CF15F58610DA}|DataAccessLogic\\DataAccessLogic.csproj|d:\\training\\siemens-dotnetcore-6thmay2024\\codes\\day-3\\pmsapp\\dataaccesslogic\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{176EAC03-AC35-47EA-9F78-CF15F58610DA}|DataAccessLogic\\DataAccessLogic.csproj|solutionrelative:dataaccesslogic\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E9147D41-44CE-4D0A-A2CC-21E4E12AE0A8}|BusinessLogic\\BusinessLogic.csproj|d:\\training\\siemens-dotnetcore-6thmay2024\\codes\\day-3\\pmsapp\\businesslogic\\iservicecontract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E9147D41-44CE-4D0A-A2CC-21E4E12AE0A8}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\iservicecontract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB8E1947-4FDA-4A0A-8B6A-93FAE12AAE15}|Entities\\Entities.csproj|d:\\training\\siemens-dotnetcore-6thmay2024\\codes\\day-3\\pmsapp\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB8E1947-4FDA-4A0A-8B6A-93FAE12AAE15}|Entities\\Entities.csproj|solutionrelative:entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CBA546FF-CCA7-4C7F-BA5A-78F7048A8FA9}|PmsAppExceptions\\PmsAppExceptions.csproj|d:\\training\\siemens-dotnetcore-6thmay2024\\codes\\day-3\\pmsapp\\pmsappexceptions\\exceptionwrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBA546FF-CCA7-4C7F-BA5A-78F7048A8FA9}|PmsAppExceptions\\PmsAppExceptions.csproj|solutionrelative:pmsappexceptions\\exceptionwrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09200B8D-BC96-47E6-804C-6A450823B64F}|PmsIoc\\PmsIoc.csproj|d:\\training\\siemens-dotnetcore-6thmay2024\\codes\\day-3\\pmsapp\\pmsioc\\servicecontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09200B8D-BC96-47E6-804C-6A450823B64F}|PmsIoc\\PmsIoc.csproj|solutionrelative:pmsioc\\servicecontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{176EAC03-AC35-47EA-9F78-CF15F58610DA}|DataAccessLogic\\DataAccessLogic.csproj|d:\\training\\siemens-dotnetcore-6thmay2024\\codes\\day-3\\pmsapp\\dataaccesslogic\\ireposiroty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{176EAC03-AC35-47EA-9F78-CF15F58610DA}|DataAccessLogic\\DataAccessLogic.csproj|solutionrelative:dataaccesslogic\\ireposiroty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64E52EE0-01BC-4266-8FE0-A21D4267900D}|DataSource\\DataSource.csproj|d:\\training\\siemens-dotnetcore-6thmay2024\\codes\\day-3\\pmsapp\\datasource\\idatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64E52EE0-01BC-4266-8FE0-A21D4267900D}|DataSource\\DataSource.csproj|solutionrelative:datasource\\idatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,72 +54,57 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Notes.txt",
-              "DocumentMoniker": "D:\\training\\siemens-dotnetcore-6thmay2024\\codes\\day-3\\PmsApp\\Notes.txt",
-              "RelativeDocumentMoniker": "Notes.txt",
-              "ToolTip": "D:\\training\\siemens-dotnetcore-6thmay2024\\codes\\day-3\\PmsApp\\Notes.txt",
-              "RelativeToolTip": "Notes.txt",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-05-08T11:47:23.506Z",
+              "DocumentIndex": 0,
+              "Title": "ServiceException.cs",
+              "DocumentMoniker": "D:\\training\\siemens-dotnetcore-6thmay2024\\codes\\day-3\\PmsApp\\PmsAppExceptions\\ServiceException.cs",
+              "RelativeDocumentMoniker": "PmsAppExceptions\\ServiceException.cs",
+              "ToolTip": "D:\\training\\siemens-dotnetcore-6thmay2024\\codes\\day-3\\PmsApp\\PmsAppExceptions\\ServiceException.cs",
+              "RelativeToolTip": "PmsAppExceptions\\ServiceException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T05:28:02.253Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Product.cs",
-              "DocumentMoniker": "D:\\training\\siemens-dotnetcore-6thmay2024\\codes\\day-3\\PmsApp\\Entities\\Product.cs",
-              "RelativeDocumentMoniker": "Entities\\Product.cs",
-              "ToolTip": "D:\\training\\siemens-dotnetcore-6thmay2024\\codes\\day-3\\PmsApp\\Entities\\Product.cs",
-              "RelativeToolTip": "Entities\\Product.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 7,
+              "Title": "ExceptionWrapper.cs",
+              "DocumentMoniker": "D:\\training\\siemens-dotnetcore-6thmay2024\\codes\\day-3\\PmsApp\\PmsAppExceptions\\ExceptionWrapper.cs",
+              "RelativeDocumentMoniker": "PmsAppExceptions\\ExceptionWrapper.cs",
+              "ToolTip": "D:\\training\\siemens-dotnetcore-6thmay2024\\codes\\day-3\\PmsApp\\PmsAppExceptions\\ExceptionWrapper.cs",
+              "RelativeToolTip": "PmsAppExceptions\\ExceptionWrapper.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T11:16:39.8Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-09T05:13:16.991Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Database.cs",
-              "DocumentMoniker": "D:\\training\\siemens-dotnetcore-6thmay2024\\codes\\day-3\\PmsApp\\DataSource\\Database.cs",
-              "RelativeDocumentMoniker": "DataSource\\Database.cs",
-              "ToolTip": "D:\\training\\siemens-dotnetcore-6thmay2024\\codes\\day-3\\PmsApp\\DataSource\\Database.cs",
-              "RelativeToolTip": "DataSource\\Database.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAQAAAAlAAAA",
+              "Title": "RepositoryException.cs",
+              "DocumentMoniker": "D:\\training\\siemens-dotnetcore-6thmay2024\\codes\\day-3\\PmsApp\\PmsAppExceptions\\RepositoryException.cs",
+              "RelativeDocumentMoniker": "PmsAppExceptions\\RepositoryException.cs",
+              "ToolTip": "D:\\training\\siemens-dotnetcore-6thmay2024\\codes\\day-3\\PmsApp\\PmsAppExceptions\\RepositoryException.cs",
+              "RelativeToolTip": "PmsAppExceptions\\RepositoryException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T11:09:53.541Z",
+              "WhenOpened": "2024-05-09T05:06:37.785Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\training\\siemens-dotnetcore-6thmay2024\\codes\\day-3\\PmsApp\\UserInterface\\Program.cs",
-              "RelativeDocumentMoniker": "UserInterface\\Program.cs",
-              "ToolTip": "D:\\training\\siemens-dotnetcore-6thmay2024\\codes\\day-3\\PmsApp\\UserInterface\\Program.cs",
-              "RelativeToolTip": "UserInterface\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAwAUAAAAvAAAA",
+              "DocumentIndex": 8,
+              "Title": "ServiceContainer.cs",
+              "DocumentMoniker": "D:\\training\\siemens-dotnetcore-6thmay2024\\codes\\day-3\\PmsApp\\PmsIoc\\ServiceContainer.cs",
+              "RelativeDocumentMoniker": "PmsIoc\\ServiceContainer.cs",
+              "ToolTip": "D:\\training\\siemens-dotnetcore-6thmay2024\\codes\\day-3\\PmsApp\\PmsIoc\\ServiceContainer.cs",
+              "RelativeToolTip": "PmsIoc\\ServiceContainer.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAwCUAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T11:08:45.102Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IServiceContract.cs",
-              "DocumentMoniker": "D:\\training\\siemens-dotnetcore-6thmay2024\\codes\\day-3\\PmsApp\\BusinessLogic\\IServiceContract.cs",
-              "RelativeDocumentMoniker": "BusinessLogic\\IServiceContract.cs",
-              "ToolTip": "D:\\training\\siemens-dotnetcore-6thmay2024\\codes\\day-3\\PmsApp\\BusinessLogic\\IServiceContract.cs",
-              "RelativeToolTip": "BusinessLogic\\IServiceContract.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T11:04:03.834Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-09T04:37:30.136Z"
             },
             {
               "$type": "Document",
@@ -109,10 +114,81 @@
               "RelativeDocumentMoniker": "BusinessLogic\\ProductService.cs",
               "ToolTip": "D:\\training\\siemens-dotnetcore-6thmay2024\\codes\\day-3\\PmsApp\\BusinessLogic\\ProductService.cs",
               "RelativeToolTip": "BusinessLogic\\ProductService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAArAAAA",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAAwCQAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T11:03:30.433Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-09T04:17:56.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IServiceContract.cs",
+              "DocumentMoniker": "D:\\training\\siemens-dotnetcore-6thmay2024\\codes\\day-3\\PmsApp\\BusinessLogic\\IServiceContract.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\IServiceContract.cs",
+              "ToolTip": "D:\\training\\siemens-dotnetcore-6thmay2024\\codes\\day-3\\PmsApp\\BusinessLogic\\IServiceContract.cs",
+              "RelativeToolTip": "BusinessLogic\\IServiceContract.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T04:17:51.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "D:\\training\\siemens-dotnetcore-6thmay2024\\codes\\day-3\\PmsApp\\DataAccessLogic\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLogic\\ProductRepository.cs",
+              "ToolTip": "D:\\training\\siemens-dotnetcore-6thmay2024\\codes\\day-3\\PmsApp\\DataAccessLogic\\ProductRepository.cs",
+              "RelativeToolTip": "DataAccessLogic\\ProductRepository.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAwBYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T04:17:00.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Database.cs",
+              "DocumentMoniker": "D:\\training\\siemens-dotnetcore-6thmay2024\\codes\\day-3\\PmsApp\\DataSource\\Database.cs",
+              "RelativeDocumentMoniker": "DataSource\\Database.cs",
+              "ToolTip": "D:\\training\\siemens-dotnetcore-6thmay2024\\codes\\day-3\\PmsApp\\DataSource\\Database.cs",
+              "RelativeToolTip": "DataSource\\Database.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T04:16:04.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\training\\siemens-dotnetcore-6thmay2024\\codes\\day-3\\PmsApp\\UserInterface\\Program.cs",
+              "RelativeDocumentMoniker": "UserInterface\\Program.cs",
+              "ToolTip": "D:\\training\\siemens-dotnetcore-6thmay2024\\codes\\day-3\\PmsApp\\UserInterface\\Program.cs",
+              "RelativeToolTip": "UserInterface\\Program.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAACIAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T11:08:45.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IReposiroty.cs",
+              "DocumentMoniker": "D:\\training\\siemens-dotnetcore-6thmay2024\\codes\\day-3\\PmsApp\\DataAccessLogic\\IReposiroty.cs",
+              "RelativeDocumentMoniker": "DataAccessLogic\\IReposiroty.cs",
+              "ToolTip": "D:\\training\\siemens-dotnetcore-6thmay2024\\codes\\day-3\\PmsApp\\DataAccessLogic\\IReposiroty.cs",
+              "RelativeToolTip": "DataAccessLogic\\IReposiroty.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T04:16:58.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IDatabase.cs",
+              "DocumentMoniker": "D:\\training\\siemens-dotnetcore-6thmay2024\\codes\\day-3\\PmsApp\\DataSource\\IDatabase.cs",
+              "RelativeDocumentMoniker": "DataSource\\IDatabase.cs",
+              "ToolTip": "D:\\training\\siemens-dotnetcore-6thmay2024\\codes\\day-3\\PmsApp\\DataSource\\IDatabase.cs",
+              "RelativeToolTip": "DataSource\\IDatabase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T04:15:45.258Z"
             }
           ]
         }

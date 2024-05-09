@@ -18,3 +18,5 @@ D:\training\siemens-dotnetcore-6thmay2024\codes\day-3\PmsApp\BusinessLogic\obj\D
 D:\training\siemens-dotnetcore-6thmay2024\codes\day-3\PmsApp\BusinessLogic\obj\Debug\net8.0\refint\BusinessLogic.dll
 D:\training\siemens-dotnetcore-6thmay2024\codes\day-3\PmsApp\BusinessLogic\obj\Debug\net8.0\BusinessLogic.pdb
 D:\training\siemens-dotnetcore-6thmay2024\codes\day-3\PmsApp\BusinessLogic\obj\Debug\net8.0\ref\BusinessLogic.dll
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-3\PmsApp\BusinessLogic\bin\Debug\net8.0\PmsAppExceptions.dll
+D:\training\siemens-dotnetcore-6thmay2024\codes\day-3\PmsApp\BusinessLogic\bin\Debug\net8.0\PmsAppExceptions.pdb

@@ -9,7 +9,8 @@
       "BusinessLogic/1.0.0": {
         "dependencies": {
           "DataAccessLogic": "1.0.0",
-          "Entities": "1.0.0"
+          "Entities": "1.0.0",
+          "PmsAppExceptions": "1.0.0"
         },
         "runtime": {
           "BusinessLogic.dll": {}
@@ -18,7 +19,8 @@
       "DataAccessLogic/1.0.0": {
         "dependencies": {
           "DataSource": "1.0.0",
-          "Entities": "1.0.0"
+          "Entities": "1.0.0",
+          "PmsAppExceptions": "1.0.0"
         },
         "runtime": {
           "DataAccessLogic.dll": {}
@@ -35,6 +37,11 @@
       "Entities/1.0.0": {
         "runtime": {
           "Entities.dll": {}
+        }
+      },
+      "PmsAppExceptions/1.0.0": {
+        "runtime": {
+          "PmsAppExceptions.dll": {}
         }
       }
     }
@@ -56,6 +63,11 @@
       "sha512": ""
     },
     "Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PmsAppExceptions/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
