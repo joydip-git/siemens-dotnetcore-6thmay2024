@@ -82,10 +82,131 @@ web.config
 		<handler name = "" ..../>
 </httpModule>
 
+RESTful => Representational State Transfer
+
+Remoting, Web Service, Enterprise Service
+
+
+class MyClass: MarshalByRefObject{
+}
+
+SP:
+[WebService]
+class MyService{
+	[WebMethod]
+	public string GetMessage(string name)
+}
+
+web server
+
+SC:
+*.wsdl => Proxy class
+
+MyServiceClient svc = new ();
+svc.GetData();
+
+http://localhost:3000/myservice?op=GetMessage
+<?xml ...>
+<soap:envelope>
+	<soap:body>
+		<soap:message>
+			<name>joydip</name>
+<
+
+class MyService:ComponentService{}
+
+
+WCF => Windows Communication Foundation
+
+[SC]
+interface ICalculation{
+[OC]
+...
+}
+class Calculation:ICalculation{
+}
+
+SHost h = new SHost(typeof(Calculation));
+host.start();
+
+
+*wsdl => 
+
+
+HTTP => GET, POST, PUT, DELETE
+
+http://localhost:3000/home/getall GET
+http://localhost:3000/home/get/1 GET
+
+[Route("api/[controller]")]
+class HomeController
+{
+
+	[HttpGet("getall")]
+	m1()
+
+	[HttpGet("get/{id}"]
+	m2(int id)	
+}
+
+
+HttpClient client = new HttpClient();
+var data = await client.GetAsync("http://localhost:3000/home/getall");
+JsonSer
+
 
 
 	
+ASP.NET MVC => MVC Web Page/View + Web API
 
+ASP.NET
+
+ASP.NET Core MVC + ASP.NET Core Web API
+
+ASP.NET Core => console app => WebApplication => AddControllers()/AddMvc()
+
+
+ADO.NET => Connection, Command, ....
+SqlConnection con =  new ...("database=;server=.;");
+SqlCommand cmd = new SqlCommand("select * from employees",con);
+con.Open();
+cmd.ExecuteReader()/ExecuteScalar()/ExecuteNonQuery()
+con.Close();
+
+Database => Class Db [connection] => public DbSet<TModel> TModels {get;}
+Table => class TModel
+
+Db db = new Db();
+DbSet<TModel> records = db.TModels;
+
+
+OR/M => EF Core => Code First/Db First
+
+Db First
+database/table => 
+
+Code First
+Db/TModel =>
+MigrationHistory 
+
+Model First=> 
+
+
+dotnet ef 
+
+Fluent API
+
+packages for EF:
+Microsoft.EntityFrameworkCore.SqlServer
+Microsoft.EntityFrameworkCore.Tools (NuGet pm)
+
+Microsoft.EntityFrameworkCore.Design (cli => ef)
+
+NuGet PMC=>
+
+>Add-Migration <migration-file-name>
+
+>Update-Database
 
 
 

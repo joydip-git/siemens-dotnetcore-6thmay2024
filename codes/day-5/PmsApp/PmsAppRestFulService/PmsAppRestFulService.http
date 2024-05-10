@@ -1,0 +1,6 @@
+@PmsAppRestFulService_HostAddress = http://localhost:5193
+
+GET {{PmsAppRestFulService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

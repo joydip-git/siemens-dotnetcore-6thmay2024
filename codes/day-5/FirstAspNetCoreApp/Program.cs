@@ -30,6 +30,7 @@ namespace FirstAspNetCoreApp
             WebApplication app = builder.Build();
 
 
+            //app.MapRazorPages();
             //apply the middlewares in request/response pipeline
             app.UseCustomMiddleware();
             //app.MapControllers();
