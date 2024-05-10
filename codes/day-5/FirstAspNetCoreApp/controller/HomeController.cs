@@ -12,5 +12,10 @@ namespace FirstAspNetCoreApp.controller
         {
             return "Hello world";
         }
+        [HttpGet("message/{data}")]
+        public string GetData(string data)
+        {
+            return "Hello world " + data;
+        }
     }
 }

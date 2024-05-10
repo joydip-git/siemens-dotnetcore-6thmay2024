@@ -39,7 +39,56 @@ namespace System.Linq{
 	}
 }
 
-siemens/{controller}/{action}/{data?} => MVC Route pattern
+siemens/{controller}/{static-uri}?data=123 => MVC Route pattern
+
+
+Route Table:						
+siemens/[controller]/message			GET		GetData	string
+
+siemens/home/message => [{"controller":"Home"},{"data":"100"}]
+																	ModelBinder
+MapControllers() => ControllerFactory => Home => ActionInvoker GetData(int data)
+
+									ControllerBase <= YourApiController
+
+		Controller <=	YourController	
+
+
+Class XModule:IHttpModule{
+	public void Init(HttpApplication app){
+		app.BeginRequest += OnBeginRequest;
+		app.EndRequest += OnEndRequest;
+		app.PreAuthenticateRequest += ....;
+		app.PostAuthenticateRequest += ....;
+		app.PreAuthorizeRequest += ....;
+		app.PostAuthorizeRequest += ....;
+	}
+	public void OnBeginRequest(HttpApplicationContext context){
+		context.Request.Identity
+	}
+}
+
+
+class XHandler:IHttpHandler{
+	public void Process(){
+	}
+}
+web.config
+
+<httpModules>
+		<module name = "" ..../>
+</httpModule>
+<httpHandlers>
+		<handler name = "" ..../>
+</httpModule>
+
+
+
+	
+
+
+
+
 
 
 
