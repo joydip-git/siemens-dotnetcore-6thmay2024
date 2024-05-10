@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Client/1.0.0": {
+        "dependencies": {
+          "CalculationLibrary": "1.0.0",
+          "ExtensionLibrary": "1.0.0"
+        },
+        "runtime": {
+          "Client.dll": {}
+        }
+      },
+      "CalculationLibrary/1.0.0": {
+        "runtime": {
+          "CalculationLibrary.dll": {}
+        }
+      },
+      "ExtensionLibrary/1.0.0": {
+        "dependencies": {
+          "CalculationLibrary": "1.0.0"
+        },
+        "runtime": {
+          "ExtensionLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Client/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CalculationLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ExtensionLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

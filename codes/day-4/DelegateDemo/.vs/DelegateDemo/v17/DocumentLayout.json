@@ -4,6 +4,9 @@
   "Documents": [
     {
       "AbsoluteMoniker": "D:0:0:{D4ED0885-4598-43D9-9089-81062B617743}|..\\JoinQuery\\JoinQuery.csproj|d:\\training\\siemens-dotnetcore-6thmay2024\\codes\\day-4\\joinquery\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73644120-A148-4538-82D4-04C34F447F2E}|..\\BuiltInDelegates\\BuiltInDelegates.csproj|d:\\training\\siemens-dotnetcore-6thmay2024\\codes\\day-4\\builtindelegates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -13,8 +16,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\training\\siemens-dotnetcore-6thmay2024\\codes\\day-4\\BuiltInDelegates\\Program.cs",
+              "RelativeDocumentMoniker": "..\\BuiltInDelegates\\Program.cs",
+              "ToolTip": "D:\\training\\siemens-dotnetcore-6thmay2024\\codes\\day-4\\BuiltInDelegates\\Program.cs",
+              "RelativeToolTip": "..\\BuiltInDelegates\\Program.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAAACYAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T04:07:03.099Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -23,7 +39,7 @@
               "RelativeDocumentMoniker": "..\\JoinQuery\\Program.cs",
               "ToolTip": "D:\\training\\siemens-dotnetcore-6thmay2024\\codes\\day-4\\JoinQuery\\Program.cs",
               "RelativeToolTip": "..\\JoinQuery\\Program.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAAADAAAAAUAAAA",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAAB0AAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-09T11:17:50.686Z",
               "EditorCaption": ""

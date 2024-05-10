@@ -1,0 +1,46 @@
+LINQ:
+	group by
+	group join
+
+EF Core
+ASP.NET Core 
+ASP.NET Core Web API
+
+Web Apps=> Web Page (Razor app), Blazor app, MVC, MC (RESTFul API), gRpc, Angular, React, Web API etc.
+
+resource-based access
+http://www.siemens.com/flightsdata.aspx
+
+Flights.aspx <=> Flights.aspx.cs => dao+bo+UI logics
+
+MVC => Model View Controller
+
+
+IEnumerable<T>, ICollection, IList, 
+
+mscorlib.dll
+namespace Syste.Collections.Generic
+{
+	public class List<T>{}
+}
+
+system.core.dll
+namespace System.Linq{
+	public static class Enumerable{
+		public static IEnumerable<T> Where(this ICollection<T> enumerable, Func<TInput,TResult> predicate){
+			ICollection<T> result = new ....();
+			foreach(T item in this){
+				//typeof(TResult)==bool
+				if(predicate(item))
+					result.add(item);
+			}
+			return result;
+		}
+	}
+}
+
+siemens/{controller}/{action}/{data?} => MVC Route pattern
+
+
+
+
